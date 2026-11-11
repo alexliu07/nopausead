@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B站去暂停广告</string>
+    <string name="xposed_description">去除哔哩哔哩暂停视频后弹出的暂停页广告（9.x）</string>
+
+    <string-array name="xposed_scope">
+        <item>tv.danmaku.bili</item>
+        <item>com.bilibili.app.in</item>
+    </string-array>
+</resources>
